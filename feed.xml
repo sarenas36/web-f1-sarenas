@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Gran Premio de Mónaco - sarenas</title>
+    <link>https://sarenas36.github.io/web-f1-sarenas/</link>
+    <description>Novedades de la web del GP de Mónaco</description>
+    <language>es-es</language>
+
+    <item>
+      <title>Nueva información sobre las curvas del circuito</title>
+      <link>https://sarenas36.github.io/web-f1-sarenas/circuito.html</link>
+      <description>Hemos añadido datos sobre la curva Loews, la más lenta del campeonato.</description>
+      <pubDate>Sun, 01 Nov 2026 10:00:00 +0100</pubDate>
+    </item>
+
+    <item>
+      <title>Formulario de contacto actualizado</title>
+      <link>https://sarenas36.github.io/web-f1-sarenas/contacto.html</link>
+      <description>Ya puedes enviarnos tus preguntas sobre el Gran Premio desde la página de contacto.</description>
+      <pubDate>Sun, 01 Nov 2026 11:00:00 +0100</pubDate>
+    </item>
+  </channel>
+</rss>
